@@ -48,6 +48,7 @@ def main():
     parser.add_argument("--export_dir", required=True)
     parser.add_argument("--dtype", default="bfloat16")
     parser.add_argument("--trust_remote_code", action="store_true")
+    parser.add_argument("--device", choices=["cpu","cuda"], default="cuda")
     args = parser.parse_args()
 
     tmp_pt = os.path.join(args.export_dir, "_tmp_adapter_pt")

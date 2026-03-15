@@ -1,0 +1,11 @@
+adapter,alpha,gamma,type,accuracy,leakage
+merge_alpha0.5_gamma0_naive,0.5,0.0,naive,0.33,0.01
+merge_alpha0.5_gamma1_proj,0.5,1.0,proj,0.34,0.01
+merge_alpha0.5_gamma1_rand,0.5,1.0,rand,0.33,0.01
+merge_alpha0.5_gamma5_proj,0.5,5.0,proj,0.35,0.01
+merge_alpha0.5_gamma5_rand,0.5,5.0,rand,0.34,0.0
+merge_alpha1.0_gamma0_naive,1.0,0.0,naive,0.34,0.01
+merge_alpha1.0_gamma1_proj,1.0,1.0,proj,0.34,0.01
+merge_alpha1.0_gamma1_rand,1.0,1.0,rand,0.34,0.01
+merge_alpha1.0_gamma5_proj,1.0,5.0,proj,0.37,0.0
+merge_alpha1.0_gamma5_rand,1.0,5.0,rand,0.34,0.01

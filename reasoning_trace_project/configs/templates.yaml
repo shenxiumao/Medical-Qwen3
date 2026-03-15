@@ -1,0 +1,16 @@
+templates:
+  plain:
+    system: "You are a helpful assistant."
+    user_prefix: ""
+    user_suffix: ""
+    description: "Standard instruction, no specific constraints."
+  nothink_soft:
+    system: "You are a helpful assistant. Do not show your reasoning or internal thought process. Just provide the final answer."
+    user_prefix: ""
+    user_suffix: " (Do not show reasoning, only the answer)"
+    description: "Soft constraint against reasoning."
+  nothink_strict:
+    system: "You are a helpful assistant. PROHIBITION: You must NOT output any reasoning, thinking steps, analysis, or internal monologue. You must NOT use <think> tags. If you output any reasoning or analysis, it will be considered a failure. Output ONLY the final answer directly."
+    user_prefix: ""
+    user_suffix: " \n\n[CONSTRAINT: Output ONLY the answer. NO reasoning. NO <think> tags. NO analysis steps.]"
+    description: "Strict constraint against reasoning with failure condition."

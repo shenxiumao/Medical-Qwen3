@@ -1,0 +1,10 @@
+transformers
+accelerate
+torch
+sentencepiece
+protobuf
+tqdm
+pandas
+numpy
+matplotlib
+pyyaml

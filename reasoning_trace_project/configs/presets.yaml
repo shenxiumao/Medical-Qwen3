@@ -1,0 +1,19 @@
+presets:
+  PresetA:
+    do_sample: false
+    temperature: 0.0
+    top_p: 1.0
+    seed: 42
+    description: "Greedy decoding (deterministic)"
+  PresetB:
+    do_sample: true
+    temperature: 0.6
+    top_p: 0.8
+    seed: 42
+    description: "Moderate creativity"
+  PresetC:
+    do_sample: true
+    temperature: 1.0
+    top_p: 0.95
+    seed: 42
+    description: "High creativity"

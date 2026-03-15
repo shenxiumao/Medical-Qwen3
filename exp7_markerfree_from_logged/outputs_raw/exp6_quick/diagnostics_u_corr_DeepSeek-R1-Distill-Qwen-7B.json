@@ -1,0 +1,11 @@
+{
+  "n_pos": 67,
+  "n_neg": 133,
+  "marker_hit_rate": 0.0,
+  "norm_diff": 53.58984375,
+  "mean_pos_score": 4.172526836395264,
+  "mean_neg_score": -49.41733169555664,
+  "train_sep": 53.58985900878906,
+  "delta_norm": 53.58984375,
+  "cos_sim_rand": -0.002226646989583969
+}

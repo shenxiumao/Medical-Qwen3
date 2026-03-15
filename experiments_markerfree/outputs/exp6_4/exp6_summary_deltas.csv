@@ -1,0 +1,9 @@
+model,dataset,gamma,delta_margin,delta_entropy,delta_refusal_detected,delta_format_violation,delta_y_correct
+DeepSeek-R1-Distill-Qwen-7B,medqa,0,0.0,0.0,0.0,0.0,0.0
+DeepSeek-R1-Distill-Qwen-7B,medqa,2,0.0,0.0,0.0,0.0,0.0
+DeepSeek-R1-Distill-Qwen-7B,medqa,5,0.0,0.0,0.0,0.0,0.010000000000000009
+DeepSeek-R1-Distill-Qwen-7B,medqa,10,0.0,0.0,0.0,0.0,0.0
+DeepSeek-R1-Distill-Qwen-7B,mmlu,0,0.0,0.0,0.0,0.0,0.0
+DeepSeek-R1-Distill-Qwen-7B,mmlu,2,0.0,0.0,0.0,0.0,0.0
+DeepSeek-R1-Distill-Qwen-7B,mmlu,5,0.0,0.0,0.0,0.0,0.010000000000000009
+DeepSeek-R1-Distill-Qwen-7B,mmlu,10,0.0,0.0,0.0,-0.01,0.02999999999999997

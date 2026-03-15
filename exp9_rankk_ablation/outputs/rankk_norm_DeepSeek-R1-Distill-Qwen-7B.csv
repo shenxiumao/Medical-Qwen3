@@ -1,0 +1,10 @@
+model,seed,N,gamma,k,condition,accuracy_mean,entropy_mean,margin_mean,strict_fail_rate,format_violation_rate,refusal_rate,marker_hit_rate
+DeepSeek-R1-Distill-Qwen-7B,0,500,0.0,0,base,0.347,0.7738327820662898,1.53125,,,,
+DeepSeek-R1-Distill-Qwen-7B,0,500,0.0,1,proj_k1,0.347,0.7738327820662898,1.53125,,,,
+DeepSeek-R1-Distill-Qwen-7B,0,500,2.0,1,proj_k1,0.262,0.06445052301137376,8.72333690052852,,,,
+DeepSeek-R1-Distill-Qwen-7B,0,500,5.0,1,proj_k1,0.252,0.003393521030536094,23.564402401303873,,,,
+DeepSeek-R1-Distill-Qwen-7B,0,500,10.0,1,proj_k1,0.251,0.001583757652989457,47.81991139378771,,,,
+DeepSeek-R1-Distill-Qwen-7B,0,500,0.0,4,proj_k4,0.347,0.7738327820662898,1.53125,,,,
+DeepSeek-R1-Distill-Qwen-7B,0,500,2.0,4,proj_k4,0.358,0.8276884999832245,1.412217360019684,,,,
+DeepSeek-R1-Distill-Qwen-7B,0,500,5.0,4,proj_k4,0.375,0.888541077954594,1.2503266055583955,,,,
+DeepSeek-R1-Distill-Qwen-7B,0,500,10.0,4,proj_k4,0.359,0.8859316191565654,1.2322304215431212,,,,

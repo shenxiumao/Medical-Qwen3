@@ -1,0 +1,33 @@
+models:
+  Llama-3.1-8B-Instruct: "/root/workspace/model/meta-llama/Llama-3.1-8B-Instruct"
+  DeepSeek-R1-Distill-Qwen-7B: "/root/workspace/model/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B"
+  Qwen3-8B: "/root/workspace/model/Qwen/Qwen3-8B"
+  Qwen2.5-7B-Instruct: "/root/workspace/model/Qwen/Qwen2.5-7B-Instruct"
+
+gamma_grid: [0, 2, 5, 10]
+
+decoding:
+  temperature: 0.6
+  top_p: 0.9
+  max_tokens: 512
+
+dataset:
+  N: 100
+  path: "/root/workspace/intervention_minimal/data/prompts_strict.jsonl"
+  mmlu_path: "/root/workspace/train/benchmark_data/mmlu_medical_test.jsonl"
+  medqa_path: "/root/workspace/train/benchmark_data/medqa_usmle_test.jsonl"
+
+markers:
+  - "<think>"
+  - "</think>"
+  - "Step"
+  - "Step 1"
+  - "Let's think"
+  - "Let’s think"
+  - "Reasoning:"
+  - "Chain of thought"
+  - "First,"
+  - "Second,"
+  - "Thought:"
+
+seed: 42

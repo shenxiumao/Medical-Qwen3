@@ -1,0 +1,58 @@
+[
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "gamma": 0.0,
+    "mode": "all",
+    "desc": "sanity_gamma0.0",
+    "leakage_rate": 0.125,
+    "N": 40
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "gamma": 1.0,
+    "mode": "all",
+    "desc": "sanity_gamma1.0",
+    "leakage_rate": 0.1,
+    "N": 40
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "gamma": 1.5,
+    "mode": "all",
+    "desc": "sanity_gamma1.5",
+    "leakage_rate": 0.075,
+    "N": 40
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "gamma": 2.0,
+    "mode": "all",
+    "desc": "sanity_gamma2.0",
+    "leakage_rate": 0.025,
+    "N": 40
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "gamma": 5.0,
+    "mode": "all",
+    "desc": "sanity_gamma5.0",
+    "leakage_rate": 0.0,
+    "N": 40
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "gamma": 1.0,
+    "mode": "think_only",
+    "desc": "ablation_think_only",
+    "leakage_rate": 0.05,
+    "N": 40
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "gamma": 1.0,
+    "mode": "no_think",
+    "desc": "ablation_no_think",
+    "leakage_rate": 0.075,
+    "N": 40
+  }
+]

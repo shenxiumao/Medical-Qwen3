@@ -1,0 +1,10 @@
+model,seed,N,gamma,k,condition,accuracy_mean,entropy_mean,margin_mean,strict_fail_rate,format_violation_rate,refusal_rate,marker_hit_rate
+Llama-3.1-8B-Instruct,0,500,0.0,0,base,0.68,0.5227294255481711,3.204875,,,,
+Llama-3.1-8B-Instruct,0,500,0.0,1,proj_k1,0.68,0.5227294255481711,3.204875,,,,
+Llama-3.1-8B-Instruct,0,500,2.0,1,proj_k1,0.635,0.4703769017648336,3.0981526152798904,,,,
+Llama-3.1-8B-Instruct,0,500,5.0,1,proj_k1,0.561,0.39201572685939495,3.0642218663417733,,,,
+Llama-3.1-8B-Instruct,0,500,10.0,1,proj_k1,0.492,0.32242470126611567,3.2176985020907596,,,,
+Llama-3.1-8B-Instruct,0,500,0.0,4,proj_k4,0.68,0.5227294255481711,3.204875,,,,
+Llama-3.1-8B-Instruct,0,500,2.0,4,proj_k4,0.58,0.704947505721693,1.610710439682007,,,,
+Llama-3.1-8B-Instruct,0,500,5.0,4,proj_k4,0.165,0.35221750031001053,3.431843318939209,,,,
+Llama-3.1-8B-Instruct,0,500,10.0,4,proj_k4,0.112,0.15395189809093984,8.599562797546387,,,,

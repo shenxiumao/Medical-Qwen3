@@ -1,0 +1,46 @@
+[
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "base_leakage": 0.145,
+    "base_leakage_ci_low": 0.1,
+    "base_leakage_ci_high": 0.195,
+    "base_strict_fail": 0.145,
+    "int_leakage": 0.11,
+    "int_leakage_ci_low": 0.07,
+    "int_leakage_ci_high": 0.155,
+    "int_strict_fail": 0.11
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "base_leakage": 0.04,
+    "base_leakage_ci_low": 0.015,
+    "base_leakage_ci_high": 0.07,
+    "base_strict_fail": 0.04,
+    "int_leakage": 0.04,
+    "int_leakage_ci_low": 0.015,
+    "int_leakage_ci_high": 0.07,
+    "int_strict_fail": 0.04
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "base_leakage": 0.835,
+    "base_leakage_ci_low": 0.785,
+    "base_leakage_ci_high": 0.885,
+    "base_strict_fail": 0.835,
+    "int_leakage": 0.345,
+    "int_leakage_ci_low": 0.275,
+    "int_leakage_ci_high": 0.41,
+    "int_strict_fail": 0.345
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Qwen-7B",
+    "base_leakage": 0.855,
+    "base_leakage_ci_low": 0.805,
+    "base_leakage_ci_high": 0.905,
+    "base_strict_fail": 0.855,
+    "int_leakage": 0.82,
+    "int_leakage_ci_low": 0.765,
+    "int_leakage_ci_high": 0.87,
+    "int_strict_fail": 0.82
+  }
+]

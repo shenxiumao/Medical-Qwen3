@@ -1,0 +1,5 @@
+model,base_leakage,base_leakage_ci_low,base_leakage_ci_high,base_strict_fail,int_leakage,int_leakage_ci_low,int_leakage_ci_high,int_strict_fail
+Llama-3.1-8B-Instruct,0.145,0.1,0.195,0.145,0.11,0.07,0.155,0.11
+Qwen2.5-7B-Instruct,0.04,0.015,0.07,0.04,0.04,0.015,0.07,0.04
+DeepSeek-R1-Distill-Llama-8B,0.835,0.785,0.885,0.835,0.345,0.275,0.41,0.345
+DeepSeek-R1-Distill-Qwen-7B,0.855,0.805,0.905,0.855,0.82,0.765,0.87,0.82

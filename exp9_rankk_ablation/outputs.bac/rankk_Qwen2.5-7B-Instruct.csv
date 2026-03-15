@@ -1,0 +1,10 @@
+model,seed,N,gamma,k,condition,accuracy_mean,entropy_mean,margin_mean,strict_fail_rate,format_violation_rate,refusal_rate,marker_hit_rate
+Qwen2.5-7B-Instruct,0,500,0.0,0,base,0.68,0.18077604589225207,6.7595,,,,
+Qwen2.5-7B-Instruct,0,500,0.0,1,proj_k1,0.68,0.18077604589225207,6.7595,,,,
+Qwen2.5-7B-Instruct,0,500,2.0,1,proj_k1,0.638,0.1738942823955316,6.93473736714758,,,,
+Qwen2.5-7B-Instruct,0,500,5.0,1,proj_k1,0.516,0.13229696331291513,8.601299170033075,,,,
+Qwen2.5-7B-Instruct,0,500,10.0,1,proj_k1,0.42,0.061379661873917093,12.794543498093262,,,,
+Qwen2.5-7B-Instruct,0,500,0.0,4,proj_k4,0.68,0.18077604589225207,6.7595,,,,
+Qwen2.5-7B-Instruct,0,500,2.0,4,proj_k4,0.256,0.22911135935831584,5.777236724853515,,,,
+Qwen2.5-7B-Instruct,0,500,5.0,4,proj_k4,0.1,0.051394624524006186,21.03616837310791,,,,
+Qwen2.5-7B-Instruct,0,500,10.0,4,proj_k4,0.095,0.019287424991647033,46.20697611999512,,,,

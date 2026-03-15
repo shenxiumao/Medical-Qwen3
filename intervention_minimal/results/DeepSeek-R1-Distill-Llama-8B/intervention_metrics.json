@@ -1,0 +1,5 @@
+{
+  "leakage_rate": 0.345,
+  "strict_fail_rate": 0.345,
+  "n": 200
+}

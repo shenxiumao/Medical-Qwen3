@@ -1,0 +1,9 @@
+model,dataset,direction,gamma,avg_proj
+DeepSeek-R1-Distill-Qwen-7B,medqa,rand,0,-6.167583307339145
+DeepSeek-R1-Distill-Qwen-7B,medqa,rand,10,-6.074769675806165
+DeepSeek-R1-Distill-Qwen-7B,medqa,real,0,-6.167583307339145
+DeepSeek-R1-Distill-Qwen-7B,medqa,real,10,-5.895679916366935
+DeepSeek-R1-Distill-Qwen-7B,mmlu,rand,0,-6.133737159190906
+DeepSeek-R1-Distill-Qwen-7B,mmlu,rand,10,-5.780713653683663
+DeepSeek-R1-Distill-Qwen-7B,mmlu,real,0,-6.133737159190906
+DeepSeek-R1-Distill-Qwen-7B,mmlu,real,10,-5.140367537617683

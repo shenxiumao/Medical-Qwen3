@@ -1,0 +1,1304 @@
+[
+  {
+    "file_path": "outputs_raw/marker_irrelevant_label_results_Llama-3.1-8B-Instruct.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit"
+    ],
+    "exp_name": "marker_irrelevant"
+  },
+  {
+    "file_path": "outputs_raw/marker_irrelevant_summary_Llama-3.1-8B-Instruct.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "marker_irrelevant"
+  },
+  {
+    "file_path": "outputs_raw/marker_irrelevant_label_results_DeepSeek-R1-Distill-Qwen-7B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit"
+    ],
+    "exp_name": "marker_irrelevant"
+  },
+  {
+    "file_path": "outputs_raw/marker_irrelevant_summary_DeepSeek-R1-Distill-Qwen-7B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "marker_irrelevant"
+  },
+  {
+    "file_path": "outputs_raw/marker_irrelevant_label_results_Qwen3-8B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit"
+    ],
+    "exp_name": "marker_irrelevant"
+  },
+  {
+    "file_path": "outputs_raw/marker_irrelevant_summary_Qwen3-8B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "marker_irrelevant"
+  },
+  {
+    "file_path": "outputs_raw/marker_irrelevant_label_results_Qwen2.5-7B-Instruct.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit"
+    ],
+    "exp_name": "marker_irrelevant"
+  },
+  {
+    "file_path": "outputs_raw/marker_irrelevant_summary_Qwen2.5-7B-Instruct.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "marker_irrelevant"
+  },
+  {
+    "file_path": "outputs_raw/final_summary_exp5.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "exp5"
+  },
+  {
+    "file_path": "outputs_raw/exp6_1/exp6_results_real_Llama-3.1-8B-Instruct.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_1/exp6_summary_real_Llama-3.1-8B-Instruct.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_1/exp6_results_rand_Llama-3.1-8B-Instruct.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_1/exp6_summary_rand_Llama-3.1-8B-Instruct.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_1/exp6_results_real_DeepSeek-R1-Distill-Qwen-7B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_1/exp6_summary_real_DeepSeek-R1-Distill-Qwen-7B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_1/exp6_results_rand_DeepSeek-R1-Distill-Qwen-7B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_1/exp6_summary_rand_DeepSeek-R1-Distill-Qwen-7B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_1/exp6_results_real_Qwen3-8B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_1/exp6_summary_real_Qwen3-8B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_1/exp6_results_rand_Qwen3-8B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_1/exp6_summary_rand_Qwen3-8B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_1/exp6_results_real_Qwen2.5-7B-Instruct.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_1/exp6_summary_real_Qwen2.5-7B-Instruct.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_1/exp6_results_rand_Qwen2.5-7B-Instruct.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_1/exp6_summary_rand_Qwen2.5-7B-Instruct.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_1/summary_exp6.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "direction",
+      "dataset",
+      "y_correct",
+      "marker_hit",
+      "id"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_2/exp6_results_real_Llama-3.1-8B-Instruct.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit",
+      "avg_proj"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_2/exp6_summary_real_Llama-3.1-8B-Instruct.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_2/exp6_results_rand_Llama-3.1-8B-Instruct.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit",
+      "avg_proj"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_2/exp6_summary_rand_Llama-3.1-8B-Instruct.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_2/exp6_results_real_DeepSeek-R1-Distill-Qwen-7B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit",
+      "avg_proj"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_2/exp6_summary_real_DeepSeek-R1-Distill-Qwen-7B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_2/exp6_results_rand_DeepSeek-R1-Distill-Qwen-7B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit",
+      "avg_proj"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_2/exp6_summary_rand_DeepSeek-R1-Distill-Qwen-7B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_2/exp6_results_real_Qwen3-8B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit",
+      "avg_proj"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_2/exp6_summary_real_Qwen3-8B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_2/exp6_results_rand_Qwen3-8B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit",
+      "avg_proj"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_2/exp6_summary_rand_Qwen3-8B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_2/exp6_results_real_Qwen2.5-7B-Instruct.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit",
+      "avg_proj"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_2/exp6_summary_real_Qwen2.5-7B-Instruct.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_2/exp6_results_rand_Qwen2.5-7B-Instruct.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit",
+      "avg_proj"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_2/exp6_summary_rand_Qwen2.5-7B-Instruct.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_2/summary_exp6.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "direction",
+      "dataset",
+      "y_correct",
+      "marker_hit",
+      "id"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_2/summary_exp6_plus.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "direction",
+      "dataset",
+      "y_correct",
+      "marker_hit",
+      "id"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_3/exp6_results_real_Llama-3.1-8B-Instruct.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit",
+      "avg_proj",
+      "refusal_detected",
+      "format_violation",
+      "choice_margin",
+      "answer_entropy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_3/exp6_summary_real_Llama-3.1-8B-Instruct.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_3/exp6_results_rand_Llama-3.1-8B-Instruct.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit",
+      "avg_proj",
+      "refusal_detected",
+      "format_violation",
+      "choice_margin",
+      "answer_entropy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_3/exp6_summary_rand_Llama-3.1-8B-Instruct.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_3/exp6_results_real_DeepSeek-R1-Distill-Qwen-7B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit",
+      "avg_proj",
+      "refusal_detected",
+      "format_violation",
+      "choice_margin",
+      "answer_entropy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_3/exp6_summary_real_DeepSeek-R1-Distill-Qwen-7B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_3/exp6_results_rand_DeepSeek-R1-Distill-Qwen-7B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit",
+      "avg_proj",
+      "refusal_detected",
+      "format_violation",
+      "choice_margin",
+      "answer_entropy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_3/exp6_summary_rand_DeepSeek-R1-Distill-Qwen-7B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_3/exp6_results_real_Qwen3-8B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit",
+      "avg_proj",
+      "refusal_detected",
+      "format_violation",
+      "choice_margin",
+      "answer_entropy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_3/exp6_summary_real_Qwen3-8B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_3/exp6_results_rand_Qwen3-8B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit",
+      "avg_proj",
+      "refusal_detected",
+      "format_violation",
+      "choice_margin",
+      "answer_entropy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_3/exp6_summary_rand_Qwen3-8B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_3/exp6_results_real_Qwen2.5-7B-Instruct.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit",
+      "avg_proj",
+      "refusal_detected",
+      "format_violation",
+      "choice_margin",
+      "answer_entropy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_3/exp6_summary_real_Qwen2.5-7B-Instruct.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_3/exp6_results_rand_Qwen2.5-7B-Instruct.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit",
+      "avg_proj",
+      "refusal_detected",
+      "format_violation",
+      "choice_margin",
+      "answer_entropy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_3/exp6_summary_rand_Qwen2.5-7B-Instruct.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_3/summary_exp6_plus.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "direction",
+      "dataset",
+      "y_correct",
+      "marker_hit",
+      "id",
+      "refusal_detected",
+      "format_violation",
+      "choice_margin",
+      "answer_entropy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_3/exp6_option_metrics.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "direction",
+      "dataset",
+      "id",
+      "y_correct",
+      "margin",
+      "entropy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_3/exp6_summary_deltas.csv",
+    "available_columns": [
+      "model",
+      "dataset",
+      "gamma",
+      "delta_margin",
+      "delta_entropy",
+      "delta_refusal_detected",
+      "delta_format_violation",
+      "delta_y_correct"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_3/diagnostics_intervention.csv",
+    "available_columns": [
+      "model",
+      "dataset",
+      "direction",
+      "gamma",
+      "avg_proj"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_4/exp6_results_real_DeepSeek-R1-Distill-Qwen-7B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit",
+      "avg_proj",
+      "refusal_detected",
+      "format_violation",
+      "choice_margin",
+      "answer_entropy",
+      "option_logits_logged",
+      "logit_A_sp",
+      "logit_B_sp",
+      "logit_C_sp",
+      "logit_D_sp",
+      "logit_A",
+      "logit_D",
+      "logit_C",
+      "logit_B"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_4/exp6_summary_real_DeepSeek-R1-Distill-Qwen-7B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_4/exp6_results_rand_DeepSeek-R1-Distill-Qwen-7B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit",
+      "avg_proj",
+      "refusal_detected",
+      "format_violation",
+      "choice_margin",
+      "answer_entropy",
+      "option_logits_logged",
+      "logit_A_sp",
+      "logit_B_sp",
+      "logit_C_sp",
+      "logit_D_sp",
+      "logit_A",
+      "logit_D",
+      "logit_C",
+      "logit_B"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_4/exp6_summary_rand_DeepSeek-R1-Distill-Qwen-7B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_4/summary_exp6_plus.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "direction",
+      "dataset",
+      "y_correct",
+      "marker_hit",
+      "refusal_detected",
+      "format_violation",
+      "choice_margin",
+      "answer_entropy",
+      "n"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_4/exp6_option_metrics.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "direction",
+      "dataset",
+      "id",
+      "y_correct",
+      "margin",
+      "entropy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_4/exp6_summary_deltas.csv",
+    "available_columns": [
+      "model",
+      "dataset",
+      "gamma",
+      "delta_margin",
+      "delta_entropy",
+      "delta_refusal_detected",
+      "delta_format_violation",
+      "delta_y_correct"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_4/diagnostics_intervention.csv",
+    "available_columns": [
+      "model",
+      "dataset",
+      "direction",
+      "gamma",
+      "avg_proj"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_quick/exp6_results_real_DeepSeek-R1-Distill-Qwen-7B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit",
+      "avg_proj",
+      "refusal_detected",
+      "format_violation",
+      "choice_margin",
+      "answer_entropy",
+      "option_logits_logged",
+      "decision_step",
+      "logit_A_sp",
+      "logit_B_sp",
+      "logit_C_sp",
+      "logit_D_sp",
+      "logit_A_dec",
+      "logit_B_dec",
+      "logit_C_dec",
+      "logit_D_dec",
+      "logit_A",
+      "logit_D",
+      "logit_C",
+      "logit_B"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_quick/exp6_summary_real_DeepSeek-R1-Distill-Qwen-7B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_quick/exp6_results_rand_DeepSeek-R1-Distill-Qwen-7B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "id",
+      "y_correct",
+      "y_demand",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f1_rand",
+      "f2_rand",
+      "marker_hit",
+      "avg_proj",
+      "refusal_detected",
+      "format_violation",
+      "choice_margin",
+      "answer_entropy",
+      "option_logits_logged",
+      "decision_step",
+      "logit_A_sp",
+      "logit_B_sp",
+      "logit_C_sp",
+      "logit_D_sp",
+      "logit_A_dec",
+      "logit_B_dec",
+      "logit_C_dec",
+      "logit_D_dec",
+      "logit_A",
+      "logit_D",
+      "logit_C",
+      "logit_B"
+    ],
+    "exp_name": "exp6"
+  },
+  {
+    "file_path": "outputs_raw/exp6_quick/exp6_summary_rand_DeepSeek-R1-Distill-Qwen-7B.csv",
+    "available_columns": [
+      "model",
+      "gamma",
+      "dataset",
+      "task",
+      "feature_group",
+      "auc",
+      "accuracy"
+    ],
+    "exp_name": "exp6"
+  }
+]

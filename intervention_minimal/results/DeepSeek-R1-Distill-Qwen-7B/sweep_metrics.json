@@ -1,0 +1,37 @@
+{
+  "0.0": {
+    "leakage_rate": 0.825,
+    "strict_fail_rate": 0.825,
+    "n": 80
+  },
+  "0.5": {
+    "leakage_rate": 0.825,
+    "strict_fail_rate": 0.825,
+    "n": 80
+  },
+  "1.0": {
+    "leakage_rate": 0.7875,
+    "strict_fail_rate": 0.7875,
+    "n": 80
+  },
+  "1.5": {
+    "leakage_rate": 0.7,
+    "strict_fail_rate": 0.7,
+    "n": 80
+  },
+  "2.0": {
+    "leakage_rate": 0.6625,
+    "strict_fail_rate": 0.6625,
+    "n": 80
+  },
+  "3.0": {
+    "leakage_rate": 0.175,
+    "strict_fail_rate": 0.175,
+    "n": 80
+  },
+  "5.0": {
+    "leakage_rate": 0.0,
+    "strict_fail_rate": 0.0,
+    "n": 80
+  }
+}

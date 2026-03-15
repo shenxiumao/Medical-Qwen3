@@ -1,0 +1,6 @@
+dataset:
+  mmlu_path: "/root/workspace/train/benchmark_data/mmlu_medical_test.jsonl"
+  medqa_path: "/root/workspace/train/benchmark_data/medqa_usmle_test.jsonl"
+  N: 500
+gamma_grid: [0, 10, 25, 40]
+markers: ["Answer:", "The answer is"]

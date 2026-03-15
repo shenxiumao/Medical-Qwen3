@@ -1,4 +1,4 @@
-# Medical-Qwen3（arXiv:2601.18350）实验代码
+# Adapter Merging Reactivates Latent Reasoning Traces（arXiv:2601.18350）实验代码
 
 本目录包含论文 [Adapter Merging Reactivates Latent Reasoning Traces: A Mechanism Analysis](https://arxiv.org/abs/2601.18350) 的实验用到的全部代码与脚本（包含我们使用的 LLaMA-Factory 版本与各类实验/分析 pipeline）。
 
